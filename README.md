@@ -1,3 +1,18 @@
+# IPAddress:
+
+- Types of IPAddress:
+    - IPv4
+    - IPv6
+- Private IPAddress:
+- Public IPAddress:
+- IPAddress class:
+    - ClassA
+    - ClassB
+    - ClassC
+    - ClassD
+  
+
+
 # Subnetting
 Subnetting is a method of dividing a single physical network into logical sub-networks (subnets). Subnetting allows a business to expand its network without requiring a new network number from its Internet service provider. Subnetting helps to reduce the network traffic and also conceals network complexity. Subnetting is necessary when a single network number must be assigned to several portions of a local area network (LAN).
 
