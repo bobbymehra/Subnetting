@@ -1,14 +1,16 @@
-# IPAddress:
+# IP Address:
 
-- Types of IPAddress:
+- Types of IP Address:
     - IPv4
     - IPv6
-- Public and Private IPAddress:
-- ![c0638-public-and-private-addresses](https://github.com/bobbymehra/Subnetting/assets/64466106/f1d63965-ed4c-4701-98bb-1d6f23589c80)
+- Public and Private IP Address:
+![c0638-public-and-private-addresses](https://github.com/bobbymehra/Subnetting/assets/64466106/f1d63965-ed4c-4701-98bb-1d6f23589c80)
 
-- Static IPAddress:
-- Dynamic IPAddress:
-- IPAddress class:
+- Static IP Address:
+- Dynamic IP Address:
+- Classes of IP Address:
+![Classes-of-IP-addresses-1024x724](https://github.com/bobbymehra/Subnetting/assets/64466106/2f6d5e0c-e71e-47e7-800e-89b1bb914825)
+
     - ClassA
     - ClassB
     - ClassC
