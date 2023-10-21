@@ -3,8 +3,11 @@
 - Types of IPAddress:
     - IPv4
     - IPv6
-- Private IPAddress:
-- Public IPAddress:
+- Public and Private IPAddress:
+- ![c0638-public-and-private-addresses](https://github.com/bobbymehra/Subnetting/assets/64466106/f1d63965-ed4c-4701-98bb-1d6f23589c80)
+
+- Static IPAddress:
+- Dynamic IPAddress:
 - IPAddress class:
     - ClassA
     - ClassB
