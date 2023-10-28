@@ -6,7 +6,7 @@
 - Public and Private IP Address:
   - Private IP Address
     
-| Class | Staart Address | Finish Address |
+| Class | Start Address  | Finish Address |
 | ----- | -------------- | -------------- |
 |  A    |  10.0.0.0      | 10.255.255.255 |
 |  B    |  172.16.0.0    | 172.16.255.255 |
@@ -14,7 +14,7 @@
  
    - Public IP Address
        
-| Class | Staart Address | Finish Address |
+| Class | Start Address  | Finish Address |
 | ----- | -------------- | -------------- |
 |  A    |   0.0.0.0      | 0.255.255.255  |
 |  B    |  128.0.0.0     | 128.255.255.255|
