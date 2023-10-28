@@ -4,8 +4,23 @@
     - IPv4
     - IPv6
 - Public and Private IP Address:
-  
-![c0638-public-and-private-addresses](https://github.com/bobbymehra/Subnetting/assets/64466106/f1d63965-ed4c-4701-98bb-1d6f23589c80)
+  - Private IP Address
+    
+| Class | Staart Address | Finish Address |
+| ----- | -------------- | -------------- |
+|  A    |  10.0.0.0      | 10.255.255.255 |
+|  B    |  172.16.0.0    | 172.16.255.255 |
+|  C    |  192.168.0.0   | 192.168.255.255| 
+ 
+   - Public IP Address
+       
+| Class | Staart Address | Finish Address |
+| ----- | -------------- | -------------- |
+|  A    |   0.0.0.0      | 0.255.255.255  |
+|  B    |  128.0.0.0     | 128.255.255.255|
+|  C    |  192.0.0.0     | 192.255.255.255| 
+|  D    |  224.0.0.0     | 224.255.255.255| 
+|  E    |  240.0.0.0     | 240.255.255.255| 
 
 - Static IP Address:
 - Dynamic IP Address:
